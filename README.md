@@ -9,7 +9,7 @@ We are currently working on a demo. Coming real soon!
 
 ## Welcome to CardScript
 
-CardScript is a interactive card making website where you can share your wildest creations with your friend on our forums. Cardscript will allow you to build completely custom card or you can check out the shop for inspiration.
+CardScript is a interactive card making website where you can share your wildest creations with your friends on our forums. Cardscript will allow you to build completely custom cards or you can check out the shop for inspiration.
 
 ### Pages
 
@@ -17,7 +17,7 @@ We will eventually add examples here once we build the website.
 
 ### Mobile Support
 
-As the main feature of this web app is to allow creativity with a card builder mobile support becomes tricky. We may eventually create a lightweight version to adjust your cards but nothing to heavy.
+The main feature of this web app is to allow creativity with a card builder; mobile support becomes tricky. We may eventually create a lightweight version to adjust your cards but nothing too heavy.
 On mobile, the main goal is to be able to keep contact with your friends and followers. We want users to always be up to date on the lastest designs.
 
 ### Features
@@ -51,4 +51,4 @@ Want to contribute? Awesome!
 4. Commit your changes & push your branch
 5. Create a pull request
 
-We will try to merge as quick as possible.
+We will try to merge as quickly as possible.
