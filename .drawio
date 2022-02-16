@@ -1,0 +1,1239 @@
+<mxfile host="65bd71144e">
+    <diagram id="OP1CkS97kEhj2PGDy74z" name="Hub">
+        <mxGraphModel dx="2814" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="425" y="180" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="330" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="150" y="70"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-30" y="70"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="510" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="690" y="70"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="870" y="70"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-210" y="70"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1050" y="70"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="Homescreen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9" target="97" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="330" y="280"/>
+                            <mxPoint x="510" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="Editor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10" target="47" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="User Account" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="edgeStyle=none;html=1;" parent="1" source="12" target="41" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Forum" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-90" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="14" target="109" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="510" y="270"/>
+                            <mxPoint x="600" y="270"/>
+                            <mxPoint x="600" y="390"/>
+                            <mxPoint x="780" y="390"/>
+                            <mxPoint x="780" y="1400"/>
+                            <mxPoint x="480" y="1400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="112" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="14" target="110" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="510" y="270"/>
+                            <mxPoint x="600" y="270"/>
+                            <mxPoint x="600" y="390"/>
+                            <mxPoint x="780" y="390"/>
+                            <mxPoint x="780" y="1400"/>
+                            <mxPoint x="680" y="1400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="Marketplace" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="152" value="" style="edgeStyle=none;html=1;" parent="1" source="16" target="151" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Support" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="154" value="" style="edgeStyle=none;html=1;" parent="1" source="18" target="153" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Documentation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;" parent="1" source="20" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-210" y="320.0000000000002" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="Cart" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-270" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="156" value="" style="edgeStyle=none;html=1;" parent="1" source="22" target="155" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Newsletter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="990" y="180" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="124" target="91" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-150" y="772.9999999999998" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-210" y="830"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="Thankyou for Purchase" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-270" y="990" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="41" target="43" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="41" target="45" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="List of Discussions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-90" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="View Discussion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-150" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Post Discussion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="edgeStyle=none;html=1;" parent="1" source="47" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="150" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="47" target="56" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="270" y="356.66666666666674" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="Do you have an account *" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="60" y="420"/>
+                            <mxPoint x="60" y="280"/>
+                        </Array>
+                        <mxPoint x="111.42857142857156" y="460" as="sourcePoint"/>
+                        <mxPoint x="150" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="Create Account *" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="400" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Posts (Comments &amp;amp; Discussions)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="570" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="55" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="570" as="targetPoint"/>
+                        <mxPoint x="330" y="490" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="62" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="490" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="64" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="490" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="65" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="490" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="68" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="490" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="70" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="490" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="72" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="490" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dfrkb0jJYrp0JgvVgO4f-159" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="1" source="56" target="dfrkb0jJYrp0JgvVgO4f-158" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Log In *" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="320" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="Personal Info" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="570" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Decks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="670" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="Cards (Finished and Unfinished)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="670" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="Follow List" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="770" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="A2EB3WScZgw97mT1j6mX-159" value="" style="edgeStyle=none;html=1;" parent="1" source="70" target="A2EB3WScZgw97mT1j6mX-158" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="Recently Chatted With List" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="770" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="Portfolio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="870" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="74" target="78" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="250" y="1090"/>
+                            <mxPoint x="170" y="1090"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="74" target="79" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="250" y="1090"/>
+                            <mxPoint x="330" y="1090"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="74" value="Build a Deck" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="990" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="75" target="94" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Create a Card" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="990" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="78" target="85" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="170" y="1240"/>
+                            <mxPoint x="250" y="1240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="78" value="Pre Made Cards" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="1130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="" style="edgeStyle=none;html=1;" parent="1" source="79" target="78" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="79" target="85" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="330" y="1240"/>
+                            <mxPoint x="250" y="1240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="79" value="Custom Cards" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="1130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="&lt;font style=&quot;font-size: 10px&quot;&gt;If None made&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="1120" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="edgeStyle=none;html=1;fontSize=10;" parent="1" source="85" target="88" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Deck Traits&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="1270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Add to Cart //&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="1410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="91" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Checkout&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="-270" y="860" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="94" target="88" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="470" y="1440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="94" value="Card Traits" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="1130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="97" target="98" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="97" target="102" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="Do you have an account *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="98" target="75" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="510" y="950"/>
+                            <mxPoint x="470" y="950"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="107" style="edgeStyle=none;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="98" target="74" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="500" y="840" as="targetPoint"/>
+                        <mxPoint x="510" y="730" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="510" y="950"/>
+                            <mxPoint x="250" y="950"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="98" value="Log in *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="670" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="575" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" style="edgeStyle=none;html=1;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="102" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="510" y="400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="690" y="400"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="102" value="Create Account *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="450" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="142" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="109" target="141" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="List of Community Made Cards/Decks" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="1470" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="110" target="127" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="Put Cards/Decks up for Sale" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="1470" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="114" target="116" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-350" y="350"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="125" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="114" target="121" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="Do you have an account *" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-270" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="" style="edgeStyle=none;html=1;" parent="1" source="116" target="119" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="Please Create an Account *" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-410" y="420" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-340" y="320" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" style="edgeStyle=none;html=1;" parent="1" source="119" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-210" y="280" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-510" y="580"/>
+                            <mxPoint x="-510" y="280"/>
+                            <mxPoint x="-360" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="119" value="Create Account *" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-410" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="" style="edgeStyle=none;html=1;" parent="1" source="121" target="123" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="Items to be Purchased" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-270" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="" style="edgeStyle=none;html=1;" parent="1" source="123" target="124" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="Pre Checkout" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-270" y="590" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="Billing Info" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-270" y="730" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="-270" y="400" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="127" target="129" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="127" target="133" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="Do you have an account *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="1610" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="129" target="137" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="Log in *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="1750" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="1700" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="133" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="680.0000000000005" y="1570" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="840" y="1570"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="133" value="Create Account *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="1610" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="1610" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="1" source="137" target="139" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="Select from Saved List of Cards" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="1890" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="139" value="Set Traits &amp;amp; Publish to Marketplace" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="2030" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="" style="edgeStyle=none;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="141" target="143" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="148" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="141" target="147" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="149" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="141" target="146" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="150" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="141" target="145" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" value="View Item(s) Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="1610" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="143" value="Contact Seller" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="1750" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="Add to Cart //" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="1840" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" value="Share" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="1750" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="147" value="Report" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="1840" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="151" value="Support Page/Contact Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="153" value="Credits to authors and utilities used" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="158" value="" style="edgeStyle=none;html=1;" parent="1" source="155" target="157" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="155" value="List of news for website and product(s)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="990" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="157" value="News Article" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="990" y="445" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k2YBLa8ARkNuu4JeG2Xv-158" value="Table:&lt;br&gt;* == Has a main screen due to repetition &amp;amp; explanantion&lt;br&gt;&lt;br&gt;// == Not an acual page to visit, rather is an action performed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="-490" y="30" width="160" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="dfrkb0jJYrp0JgvVgO4f-158" value="&lt;font style=&quot;font-size: 12px&quot;&gt;User Account&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="430" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="A2EB3WScZgw97mT1j6mX-158" value="Purchases" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="870" width="90" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="Z8flvYz8LcoeaJrGATs6" name="Cart">
+        <mxGraphModel dx="2564" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="_PTRQ_8Dj3WAWW2DMOU4-0"/>
+                <mxCell id="_PTRQ_8Dj3WAWW2DMOU4-1" parent="_PTRQ_8Dj3WAWW2DMOU4-0"/>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-0" value="" style="edgeStyle=none;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-510" y="170.00000000000023" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-1" value="Cart" style="rounded=0;whiteSpace=wrap;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-570" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-2" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-18" target="k13nkT7-YFkUCKXijfd8-5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-450" y="622.9999999999998" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-510" y="680"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-3" value="Thankyou for Purchase" style="rounded=0;whiteSpace=wrap;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-570" y="840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-4" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-5" target="k13nkT7-YFkUCKXijfd8-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Checkout&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-570" y="710" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-6" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-8" target="k13nkT7-YFkUCKXijfd8-10" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-650" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-7" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-8" target="k13nkT7-YFkUCKXijfd8-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-8" value="Do you have an account/Sign in" style="rounded=0;whiteSpace=wrap;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-570" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-9" value="" style="edgeStyle=none;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-10" target="k13nkT7-YFkUCKXijfd8-13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-10" value="Please Create an Account" style="rounded=0;whiteSpace=wrap;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-710" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-11" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-640" y="170" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-12" style="edgeStyle=none;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-510" y="130.00000000000023" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-810" y="430"/>
+                            <mxPoint x="-810" y="130"/>
+                            <mxPoint x="-660" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-13" value="Create Account" style="rounded=0;whiteSpace=wrap;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-710" y="400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-14" value="" style="edgeStyle=none;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-15" target="k13nkT7-YFkUCKXijfd8-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-15" value="Items to be Purchased" style="rounded=0;whiteSpace=wrap;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-570" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-16" value="" style="edgeStyle=none;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-17" target="k13nkT7-YFkUCKXijfd8-18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-17" value="Pre Checkout" style="rounded=0;whiteSpace=wrap;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-570" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-18" value="Billing Info" style="rounded=0;whiteSpace=wrap;html=1;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-570" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-19" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-570" y="250" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8VkiPkc9wZeyLfe1XlTg-3" style="edgeStyle=none;html=1;fontSize=18;entryX=0;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-21" target="k13nkT7-YFkUCKXijfd8-22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-21" value="The &quot;Cart&quot; page is designed&lt;br&gt;for the user to quickly and&lt;br&gt;effectively view which items&lt;br&gt;they will be purhasing.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Viewing product(s)&lt;br&gt;2. Removing product(s)&lt;br&gt;3. Sharing product(s)&lt;br&gt;4. Defining quantity of product(s) to be bought&lt;br&gt;5. Viewing, subtotal, tax, and total of purchase&lt;br&gt;6. Continue to &quot;Pre Checkout&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-443.75" width="245" height="315" as="geometry"/>
+                </mxCell>
+                <mxCell id="8VkiPkc9wZeyLfe1XlTg-4" style="edgeStyle=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="k13nkT7-YFkUCKXijfd8-22" target="8VkiPkc9wZeyLfe1XlTg-0" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="k13nkT7-YFkUCKXijfd8-22" value="The &quot;Pre Checkout&quot; page is designed to ensure the user of their purchase, and to agree to the terms and conditions of the site, as well as to explain to the customer the expectations of their purchase.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Check box for terms and service agreement&lt;br&gt;(Required for purchase)&lt;br&gt;2. Check box to recieve newsletter (Optional)&lt;br&gt;3. Continue to &quot;Billing Info&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-140" width="220" height="365" as="geometry"/>
+                </mxCell>
+                <mxCell id="8VkiPkc9wZeyLfe1XlTg-5" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="8VkiPkc9wZeyLfe1XlTg-0" target="8VkiPkc9wZeyLfe1XlTg-1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8VkiPkc9wZeyLfe1XlTg-0" value="The &quot;Billing Info&quot; page is designed to obtain the billing information of the customer: Name, Address (Country, State, City, Street, House/Apartment #), Card payment type, Card info., Phone #, and optional email.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Adding customer info to boxes and saving info&lt;br&gt;2. Checkbox to save info for future purchase(s)&lt;br&gt;3. Continue to &quot;Checkout&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-437.5" y="370" width="232.5" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="8VkiPkc9wZeyLfe1XlTg-6" style="edgeStyle=none;html=1;fontSize=18;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" source="8VkiPkc9wZeyLfe1XlTg-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-200" y="760" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8VkiPkc9wZeyLfe1XlTg-1" value="The &quot;Checkout&quot; page is designed for the customer to finalize their purchase. If they need to update any information then they have the chance to do so. This is the last chance for them to cancel their transaction before it is finalized.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Changing information&lt;br&gt;2. Cancel transaction&lt;br&gt;3. Finalize transaction&lt;br&gt;&lt;br&gt;**Once the transaction is finalized, the page automatically continues to &quot;Thankyou for Purchase&quot; page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-140" y="365" width="250" height="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="8VkiPkc9wZeyLfe1XlTg-2" value="The &quot;Thankyou for Purchase&quot; page is designed to thank the customers for using the website and services included.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Back to main screen&lt;br&gt;&lt;br&gt;**An email will be sent automatically to the customer on tracking package info." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="_PTRQ_8Dj3WAWW2DMOU4-1" vertex="1">
+                    <mxGeometry x="-425" y="720" width="220" height="335" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="RanFV2LRpBh_7OD1GUda" name="Forum">
+        <mxGraphModel dx="1714" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="kfwTMF0viaWFq2NNkAbc-0"/>
+                <mxCell id="kfwTMF0viaWFq2NNkAbc-1" parent="kfwTMF0viaWFq2NNkAbc-0"/>
+                <mxCell id="VQD2fqxchOvHm0LfXEsE-0" value="" style="edgeStyle=none;html=1;" parent="kfwTMF0viaWFq2NNkAbc-1" source="VQD2fqxchOvHm0LfXEsE-1" target="VQD2fqxchOvHm0LfXEsE-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="VQD2fqxchOvHm0LfXEsE-1" value="Forum" style="rounded=0;whiteSpace=wrap;html=1;" parent="kfwTMF0viaWFq2NNkAbc-1" vertex="1">
+                    <mxGeometry x="80" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="VQD2fqxchOvHm0LfXEsE-2" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kfwTMF0viaWFq2NNkAbc-1" source="VQD2fqxchOvHm0LfXEsE-4" target="VQD2fqxchOvHm0LfXEsE-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="VQD2fqxchOvHm0LfXEsE-3" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kfwTMF0viaWFq2NNkAbc-1" source="VQD2fqxchOvHm0LfXEsE-4" target="VQD2fqxchOvHm0LfXEsE-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="VQD2fqxchOvHm0LfXEsE-4" value="List of Discussions" style="rounded=0;whiteSpace=wrap;html=1;" parent="kfwTMF0viaWFq2NNkAbc-1" vertex="1">
+                    <mxGeometry x="80" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="VQD2fqxchOvHm0LfXEsE-5" value="View Discussion" style="rounded=0;whiteSpace=wrap;html=1;" parent="kfwTMF0viaWFq2NNkAbc-1" vertex="1">
+                    <mxGeometry x="20" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="VQD2fqxchOvHm0LfXEsE-6" value="Post Discussion" style="rounded=0;whiteSpace=wrap;html=1;" parent="kfwTMF0viaWFq2NNkAbc-1" vertex="1">
+                    <mxGeometry x="140" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="p2MKvU1jlhrlB2NZVKVp-2" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="kfwTMF0viaWFq2NNkAbc-1" source="yA-FQFSJxOjgwB-iR_Bs-0" target="p2MKvU1jlhrlB2NZVKVp-1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="xlMWyUh7sHCX3bsNCHIZ-1" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="kfwTMF0viaWFq2NNkAbc-1" source="yA-FQFSJxOjgwB-iR_Bs-0" target="xlMWyUh7sHCX3bsNCHIZ-0" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="yA-FQFSJxOjgwB-iR_Bs-0" value="The &quot;Forum&quot; page is designed to give users of the site a place for discussion on various topics regarding to either the site or product(s) featured.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Viewing discussion titles and subtitle(s)&lt;br&gt;2. Selecting discussion&lt;br&gt;3. Posting Discussion&lt;br&gt;&lt;br&gt;** Continue to &quot;Selecting Discussion&quot; functionalities&lt;br&gt;&lt;br&gt;-OR-&lt;br&gt;&lt;br&gt;**Continue to &quot;Post Discussion&quot; functionalities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="kfwTMF0viaWFq2NNkAbc-1" vertex="1">
+                    <mxGeometry x="260" y="10" width="220" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="p2MKvU1jlhrlB2NZVKVp-1" value="Selecting Discussion Functionalities Include:&lt;br&gt;1. Viewing discussion&lt;br&gt;2. Share discussion&lt;br&gt;3. Report discussion&lt;br&gt;4. Save discussion&lt;br&gt;5. Post comment(s)&lt;br&gt;6. Report comment(s)&lt;br&gt;7. Save comment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="kfwTMF0viaWFq2NNkAbc-1" vertex="1">
+                    <mxGeometry x="560" y="10" width="220" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="xlMWyUh7sHCX3bsNCHIZ-0" value="Post Discussion Functionalities Include:&lt;br&gt;1. Create post&lt;br&gt;2. Create title&lt;br&gt;3. Create subtitle&lt;br&gt;4. Create text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="kfwTMF0viaWFq2NNkAbc-1" vertex="1">
+                    <mxGeometry x="260" y="560" width="220" height="140" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="lNHmrrfXVaYgqYbPikf3" name="Account">
+        <mxGraphModel dx="1714" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="dDKzjv9wouGRo9PS7Ygs-0"/>
+                <mxCell id="dDKzjv9wouGRo9PS7Ygs-1" parent="dDKzjv9wouGRo9PS7Ygs-0"/>
+                <mxCell id="DhWFiEeIqCm11Fn-rXBE-0" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" source="DhWFiEeIqCm11Fn-rXBE-1" target="DhWFiEeIqCm11Fn-rXBE-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="DhWFiEeIqCm11Fn-rXBE-1" value="User Account" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="40" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="DhWFiEeIqCm11Fn-rXBE-2" value="" style="edgeStyle=none;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" source="DhWFiEeIqCm11Fn-rXBE-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="100" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DhWFiEeIqCm11Fn-rXBE-4" value="Do you have an account *" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="40" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="DhWFiEeIqCm11Fn-rXBE-5" style="edgeStyle=none;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="10" y="260"/>
+                            <mxPoint x="10" y="120"/>
+                        </Array>
+                        <mxPoint x="61.42857142857156" y="300" as="sourcePoint"/>
+                        <mxPoint x="100" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DhWFiEeIqCm11Fn-rXBE-6" value="Create Account *" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="40" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="DhWFiEeIqCm11Fn-rXBE-7" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="50" y="240" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3HgyfnVbR8yBEZ8ZDGxM-5" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" source="D8mwEDjY6tB_UwW81iy3-0" target="3HgyfnVbR8yBEZ8ZDGxM-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="D8mwEDjY6tB_UwW81iy3-0" value="The &quot;User Account&quot; page is designed to allow the user to have complete control over their profile and allow them to tailor their website experience to them.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Create Account (Name, email, password)&lt;br&gt;2. Log in&lt;br&gt;3. Save log in information for next time.&lt;br&gt;&lt;br&gt;**Once an user account is created or logged into, the page automatically loads the account, contine to &quot;User Account Page&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="420" y="10" width="240" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-0" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" target="qn4-sNURXsJo6JO3R6cC-10" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="190.00000000000023" as="sourcePoint"/>
+                        <mxPoint x="220" y="196.66666666666674" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-1" value="Posts (Comments &amp;amp; Discussions)" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="160" y="410" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-2" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" target="qn4-sNURXsJo6JO3R6cC-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="280" y="410" as="targetPoint"/>
+                        <mxPoint x="280" y="330" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-3" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" target="qn4-sNURXsJo6JO3R6cC-12" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="280" y="330" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-4" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" target="qn4-sNURXsJo6JO3R6cC-13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="280" y="330" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-5" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" target="qn4-sNURXsJo6JO3R6cC-14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="280" y="330" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-6" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" target="qn4-sNURXsJo6JO3R6cC-15" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="280" y="330" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" target="qn4-sNURXsJo6JO3R6cC-16" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="280" y="330" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-8" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" target="qn4-sNURXsJo6JO3R6cC-17" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="280" y="330" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-9" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" source="qn4-sNURXsJo6JO3R6cC-10" target="qn4-sNURXsJo6JO3R6cC-18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-10" value="Log In *" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="220" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-11" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="160" y="160" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-12" value="Personal Info" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="310" y="410" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-13" value="Decks" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="160" y="510" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-14" value="Cards (Finished and Unfinished)" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="310" y="510" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-15" value="Follow List" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="160" y="610" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3UlsEtgz_IlDh1GyNSE8-1" value="" style="edgeStyle=none;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" source="qn4-sNURXsJo6JO3R6cC-16" target="3UlsEtgz_IlDh1GyNSE8-0" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-16" value="Recently Chatted With List" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="310" y="610" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-17" value="Portfolio" style="rounded=0;whiteSpace=wrap;html=1;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="160" y="710" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="qn4-sNURXsJo6JO3R6cC-18" value="&lt;font style=&quot;font-size: 12px&quot;&gt;User Account Page&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="220" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3HgyfnVbR8yBEZ8ZDGxM-4" value="The &quot;User Account Page&quot; is designed to act as a hub for the user; a place for the user to access anything pertaining to their account.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Access and edit all posts&lt;br&gt;2. Access decks&lt;br&gt;3. Access and edit Follow list&lt;br&gt;4. Access and edit Portfolio&lt;br&gt;5. Access and edit Personal info&lt;br&gt;6. Access Cards&lt;br&gt;7. Access and edit Recently chatted with list&lt;br&gt;8. Access Purchases&lt;br&gt;&lt;br&gt;**All details on this page pertaining to above information, match corresponding numbers." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="740" y="10" width="240" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="3UlsEtgz_IlDh1GyNSE8-0" value="Purchases" style="whiteSpace=wrap;html=1;rounded=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="310" y="710" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WA9zggEdV92Cr7Jdp_Vx-2" value="The &quot;Posts&quot; page is designed to allow users an easily accessible place to view all of their items that they have contributed to the website, whether it be in the marketplace, as a forum discussion, or a comment.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. View Marketplace posts&lt;br&gt;2. View Forum Discussion posts&lt;br&gt;3. View Forum comments&lt;br&gt;&lt;br&gt;**1**" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="1060" y="20" width="240" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="WA9zggEdV92Cr7Jdp_Vx-4" value="The &quot;Decks&quot; page is designed to allow users to quickly view all of their saved decks in one place.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. View all saved decks&lt;br&gt;2. Select from list of saved decks&lt;br&gt;&lt;br&gt;**Once a deck is selected, it is opened in the editor&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;**2**" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="1390" y="15" width="240" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="WA9zggEdV92Cr7Jdp_Vx-6" value="The &quot;Follow List&quot; page is designed to allow users to view all of other users public profiles that they follow, whether it be simply the portfolio of another user or their entire account.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Viewing the list of users/portfolios followed&lt;br&gt;2. Selecting from the list of users/portfolios followed&lt;br&gt;&lt;br&gt;&lt;br&gt;**3**" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="1700" y="30" width="240" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="zJxjRHn6X-7Okyx0r-o3-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;The &quot;Portfolio&quot; page is designed to allow users to publically display their work, either cards or decks. This feature is completely optional and can be toggled under this page.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Setting &quot;Portfolio&quot; option to 'Private' or 'Public'&lt;br&gt;2. Adding cards or decks to portfolio page&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;**4**&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="420" y="490" width="240" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="KsGG0UzBcjtaplkdiEZP-0" value="The &quot;Personal Info&quot; page is designed to allow users to input more of their personal information, such as a phone number or secondary email for the purposes of security. Previously entered information may also be edited on this page.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Viewing account information&lt;br&gt;2. Editing account information and storing it&lt;br&gt;&lt;br&gt;&lt;br&gt;**5**" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="750" y="475" width="230" height="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="KsGG0UzBcjtaplkdiEZP-1" value="The &quot;Cards&quot; page is designed to allow users to view all of their saved cards in one place.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. View all saved cards&lt;br&gt;2. Select from list of saved cards&lt;br&gt;&lt;br&gt;**Once a card is selected, it is opened in the editor&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;**6**" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="1060" y="465" width="240" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="KsGG0UzBcjtaplkdiEZP-2" value="The &quot;Recently Chatted With&quot; page is designed to allow users who have, within a period of one week, to see a list of other users that they have communicated with through the use of the Forum.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. View users who have had communication with in the past week&lt;br&gt;2. Select saved Forum conversations&lt;br&gt;&lt;br&gt;&lt;br&gt;**7**" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="1400" y="510" width="230" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="KsGG0UzBcjtaplkdiEZP-3" value="The &quot;Purchases&quot; page is designed to allow users to see their past purchases and anything currently in transit.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. View past purchases&lt;br&gt;2. View purchases currently in transit&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;**8**" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="dDKzjv9wouGRo9PS7Ygs-1" vertex="1">
+                    <mxGeometry x="1700" y="460" width="260" height="480" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="hCKlF9OHnIO2TAA0XJy5" name="Editor">
+        <mxGraphModel dx="1714" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="K9Bzd0dlypze2q9prO8O-0"/>
+                <mxCell id="K9Bzd0dlypze2q9prO8O-1" parent="K9Bzd0dlypze2q9prO8O-0"/>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-0" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-1" target="UYoSemjONf2Mh7CYjU4m-19" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="230" y="110"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-1" value="Editor" style="rounded=0;whiteSpace=wrap;html=1;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="170" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-2" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-4" target="UYoSemjONf2Mh7CYjU4m-8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="150" y="590"/>
+                            <mxPoint x="70" y="590"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-3" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-4" target="UYoSemjONf2Mh7CYjU4m-11" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="150" y="590"/>
+                            <mxPoint x="230" y="590"/>
+                            <mxPoint x="230" y="730"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-4" value="Build a Deck" style="rounded=0;whiteSpace=wrap;html=1;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="90" y="480" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-5" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-6" target="UYoSemjONf2Mh7CYjU4m-16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-6" value="Create a Card" style="rounded=0;whiteSpace=wrap;html=1;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="250" y="480" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-7" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-8" target="UYoSemjONf2Mh7CYjU4m-13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="70" y="730"/>
+                            <mxPoint x="150" y="730"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-8" value="Pre Made Cards" style="rounded=0;whiteSpace=wrap;html=1;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="10" y="650" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-9" value="" style="edgeStyle=none;html=1;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-11" target="UYoSemjONf2Mh7CYjU4m-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-10" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-11" target="UYoSemjONf2Mh7CYjU4m-13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="230" y="730"/>
+                            <mxPoint x="150" y="730"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-11" value="Custom Cards" style="rounded=0;whiteSpace=wrap;html=1;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="170" y="650" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-12" value="&lt;font style=&quot;font-size: 10px&quot;&gt;If None made&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="120" y="650" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="iu_J5mREPO3Gbn1G0TIf-0" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-13" target="UYoSemjONf2Mh7CYjU4m-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Deck Traits&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="90" y="760" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Add to Cart //&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="90" y="890" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-15" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-16" target="UYoSemjONf2Mh7CYjU4m-14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="365" y="920"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-16" value="Card Traits" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="305" y="650" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-17" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-19" target="UYoSemjONf2Mh7CYjU4m-22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-18" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-19" target="UYoSemjONf2Mh7CYjU4m-25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-19" value="Do you have an account *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="170" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-20" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-22" target="UYoSemjONf2Mh7CYjU4m-6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="230" y="440"/>
+                            <mxPoint x="310" y="440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-21" style="edgeStyle=none;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-22" target="UYoSemjONf2Mh7CYjU4m-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="400" y="670" as="targetPoint"/>
+                        <mxPoint x="410" y="560" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="230" y="440"/>
+                            <mxPoint x="150" y="440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-22" value="Log in *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="170" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-23" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="230" y="290" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-24" style="edgeStyle=none;html=1;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="K9Bzd0dlypze2q9prO8O-1" source="UYoSemjONf2Mh7CYjU4m-25" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="130" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="400" y="130"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-25" value="Create Account *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="340" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="UYoSemjONf2Mh7CYjU4m-26" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="290" y="190" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="i4EfZFhZev1uf0Dw65Cs-1" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=-0.012;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" parent="K9Bzd0dlypze2q9prO8O-1" source="CVjnkpOLdggYYTSAu2KB-0" target="i4EfZFhZev1uf0Dw65Cs-0" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="i4EfZFhZev1uf0Dw65Cs-3" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="K9Bzd0dlypze2q9prO8O-1" source="CVjnkpOLdggYYTSAu2KB-0" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="590" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="CVjnkpOLdggYYTSAu2KB-0" value="The &quot;Editor&quot; page is designed to allow users to create-design-and/or edit their own cards or decks&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Building a Deck&lt;br&gt;2. Creating a Card&lt;br&gt;3. Continue to &quot;Pre Made Cards&quot; and &quot;Custom Cards&quot; or &quot;Card Traits&quot; depending on selection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="480" y="20" width="220" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="i4EfZFhZev1uf0Dw65Cs-0" value="The &quot;Card Traits&quot; page is designed to allow users to customize their cards in any way that they see fit. They may add a title, subtitle, text, add a picture, and even create a template. They make their own or start off from a template.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Viewing templates&lt;br&gt;2. Selecting a template&lt;br&gt;3. Editing templates&lt;br&gt;4. Create your own template&lt;br&gt;5. Add a title&lt;br&gt;6. Add a subtitle&lt;br&gt;7. Add text&lt;br&gt;8. Add a picture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="880" width="220" height="455" as="geometry"/>
+                </mxCell>
+                <mxCell id="i4EfZFhZev1uf0Dw65Cs-5" value="" style="edgeStyle=none;html=1;fontSize=18;entryX=0.28;entryY=-0.017;entryDx=0;entryDy=0;exitX=0.297;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="K9Bzd0dlypze2q9prO8O-1" target="i4EfZFhZev1uf0Dw65Cs-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="549.4000000000001" y="659.4200000000001" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="i4EfZFhZev1uf0Dw65Cs-6" value="" style="edgeStyle=none;html=1;fontSize=18;exitX=0.6;exitY=-0.01;exitDx=0;exitDy=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="K9Bzd0dlypze2q9prO8O-1" source="i4EfZFhZev1uf0Dw65Cs-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="630" y="660" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="i4EfZFhZev1uf0Dw65Cs-4" value="The &quot;Custom Cards&quot; page is designed to give users the ability to make their own decks through utilizing their custom cards.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Setting the size of your deck&lt;br&gt;2. Selecting the cards to add to your deck&lt;br&gt;3. Saving your deck&lt;br&gt;4. Add deck to cart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="480" y="750" width="250" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="K_n6pmBx1cm4C00fURyI-0" value="The &quot;Pre Made Cards&quot; page is designed to give users pre made options to quickly make their own custom decks.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Setting the size of your deck&lt;br&gt;2. Selecting the cards to add to your deck&lt;br&gt;3. Saving your deck&lt;br&gt;4. Add deck to cart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="K9Bzd0dlypze2q9prO8O-1" vertex="1">
+                    <mxGeometry x="460" y="370" width="260" height="290" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="bj-g-3FpIt6eOFfg2OAZ" name="Marketplace">
+        <mxGraphModel dx="1714" dy="50" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="MBmHKvs9t3jUubexMw2t-0"/>
+                <mxCell id="MBmHKvs9t3jUubexMw2t-1" parent="MBmHKvs9t3jUubexMw2t-0"/>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-30" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-2" target="l_xt-sYVWXpZq6jBLYKt-4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="1230"/>
+                            <mxPoint x="140" y="1230"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-31" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-2" target="l_xt-sYVWXpZq6jBLYKt-6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="1230"/>
+                            <mxPoint x="340" y="1230"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-2" value="Marketplace" style="rounded=0;whiteSpace=wrap;html=1;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="180" y="1140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-3" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-4" target="l_xt-sYVWXpZq6jBLYKt-22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-4" value="List of Community Made Cards/Decks" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="80" y="1310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-5" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-6" target="l_xt-sYVWXpZq6jBLYKt-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-6" value="Put Cards/Decks up for Sale" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="280" y="1310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-7" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-8" target="l_xt-sYVWXpZq6jBLYKt-10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-29" style="edgeStyle=none;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-8" target="l_xt-sYVWXpZq6jBLYKt-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-8" value="Do you have an account *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="280" y="1450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-9" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-10" target="l_xt-sYVWXpZq6jBLYKt-16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-10" value="Log in *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="280" y="1590" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-11" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="290" y="1540" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-12" style="edgeStyle=none;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="340.00000000000045" y="1410" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="500" y="1410"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-13" value="Create Account *" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="440" y="1450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-14" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="390" y="1450" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-15" value="" style="edgeStyle=none;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-16" target="l_xt-sYVWXpZq6jBLYKt-17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-16" value="Select from Saved List of Cards/Deck(s)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="280" y="1730" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-17" value="Set Traits &amp;amp; Publish to Marketplace" style="whiteSpace=wrap;html=1;rounded=0;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="280" y="1870" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-18" value="" style="edgeStyle=none;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-22" target="l_xt-sYVWXpZq6jBLYKt-23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-19" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-22" target="l_xt-sYVWXpZq6jBLYKt-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-20" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-22" target="l_xt-sYVWXpZq6jBLYKt-25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-21" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-22" target="l_xt-sYVWXpZq6jBLYKt-24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-22" value="View Item(s) Page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="80" y="1450" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-23" value="Contact Seller" style="whiteSpace=wrap;html=1;rounded=0;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="40" y="1590" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-24" value="Add to Cart //" style="whiteSpace=wrap;html=1;rounded=0;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="150" y="1680" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-25" value="Share" style="whiteSpace=wrap;html=1;rounded=0;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="150" y="1590" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-26" value="Report" style="whiteSpace=wrap;html=1;rounded=0;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="40" y="1680" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="OO4Ty0i6I1cjO3CcjVih-1" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-32" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="880" y="1300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="OO4Ty0i6I1cjO3CcjVih-5" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="MBmHKvs9t3jUubexMw2t-1" source="l_xt-sYVWXpZq6jBLYKt-32" target="OO4Ty0i6I1cjO3CcjVih-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="l_xt-sYVWXpZq6jBLYKt-32" value="&lt;font style=&quot;font-size: 18px&quot;&gt;The &quot;Marketplace&quot; page is designed to give users a designated public space to not only share their designs, but to sell them as well.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Viewing list of all community made cards/decks&lt;br&gt;2. Putting your own cards/decks up for sale&lt;br&gt;&lt;br&gt;**Continue to &quot;List of Community Made Cards/Decks&quot; or &quot;Put Cards/Decks up for Sale&quot;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="580" y="1110" width="270" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="OO4Ty0i6I1cjO3CcjVih-3" value="" style="edgeStyle=none;html=1;fontSize=18;exitX=1.012;exitY=0.462;exitDx=0;exitDy=0;exitPerimeter=0;" parent="MBmHKvs9t3jUubexMw2t-1" source="OO4Ty0i6I1cjO3CcjVih-0" target="OO4Ty0i6I1cjO3CcjVih-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OO4Ty0i6I1cjO3CcjVih-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;The &quot;List of Community Made Cards/Decks&quot; is designed to give users a place to submit their own work and view the work of others for purchase.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Viewing list of all community made cards/decks&lt;br&gt;2. Putting your own cards/decks up for sale&lt;br&gt;3. Continue to &quot;View Item(s) Page&quot;&lt;br&gt;&lt;br&gt;**The &quot;List of Community Made Cards/Decks&quot; page is what appears when the site user selects the marketplace, from there they are able to publish their own items.&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="890" y="1130" width="270" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="OO4Ty0i6I1cjO3CcjVih-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;The &quot;View Item(s) Page&quot; is designed for the user to see the unique, individual pages for each item that is present on the marketplace.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Contacting the seller&lt;br&gt;2. Sharing the work&lt;br&gt;3. Reporting the work&lt;br&gt;4. Adding the item to your cart&lt;br&gt;&lt;br&gt;**Before any of the above functionalities are executed, the user must sign in to their account, or create one and sign in should they not have one already.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="1240" y="1110" width="270" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="OO4Ty0i6I1cjO3CcjVih-7" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="MBmHKvs9t3jUubexMw2t-1" source="OO4Ty0i6I1cjO3CcjVih-4" target="OO4Ty0i6I1cjO3CcjVih-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="OO4Ty0i6I1cjO3CcjVih-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;The &quot;Put Cards/Decks up for Sale&quot; page is designed to allow users to put their own creations up for sale.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Selecting from a saved list of cards/deck(s)&lt;br&gt;2. Continue to &quot;Set Traits &amp;amp; Publish to Marketplace&quot;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="580" y="1570" width="270" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="OO4Ty0i6I1cjO3CcjVih-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;The &quot;Set Traits &amp;amp; Publish to Marketplace&quot; page is designed to allow users to set the traits that they see fit for their product.&lt;br&gt;&lt;br&gt;Fucntionalities Include:&lt;br&gt;1. Setting the price&lt;br&gt;2. Setting the time in which the product is available on the marketplace&lt;br&gt;3. Adding payment credentials&lt;br&gt;4. Agreeing to ToS&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="MBmHKvs9t3jUubexMw2t-1" vertex="1">
+                    <mxGeometry x="890" y="1540" width="270" height="280" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="QKqWdcM0GTZmJqbDfyc3" name="Support">
+        <mxGraphModel dx="1714" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="hUw9U_2dXqwJYFcLBNhR-0"/>
+                <mxCell id="hUw9U_2dXqwJYFcLBNhR-1" parent="hUw9U_2dXqwJYFcLBNhR-0"/>
+                <mxCell id="YWPPlG_2sibog0AVJbOD-0" value="" style="edgeStyle=none;html=1;" parent="hUw9U_2dXqwJYFcLBNhR-1" source="YWPPlG_2sibog0AVJbOD-1" target="YWPPlG_2sibog0AVJbOD-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWPPlG_2sibog0AVJbOD-1" value="Support" style="rounded=0;whiteSpace=wrap;html=1;" parent="hUw9U_2dXqwJYFcLBNhR-1" vertex="1">
+                    <mxGeometry x="70" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWPPlG_2sibog0AVJbOD-2" value="Support Page/Contact Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="hUw9U_2dXqwJYFcLBNhR-1" vertex="1">
+                    <mxGeometry x="70" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="YWPPlG_2sibog0AVJbOD-3" value="The &quot;Support&quot; page is designed to give users an area for them to contact the site admins and submit any queries they may have.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Adding email info to submit to admins&lt;br&gt;2. Viewing contact info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="hUw9U_2dXqwJYFcLBNhR-1" vertex="1">
+                    <mxGeometry x="230" width="230" height="400" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="I-xQmQy8uSWn6YbTL1GI" name="Documentation">
+        <mxGraphModel dx="1714" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="wECPVMFYdMwjpnngEMoh-0"/>
+                <mxCell id="wECPVMFYdMwjpnngEMoh-1" parent="wECPVMFYdMwjpnngEMoh-0"/>
+                <mxCell id="1d-g6uOnmmIA_0efVH8N-0" value="" style="edgeStyle=none;html=1;" parent="wECPVMFYdMwjpnngEMoh-1" source="1d-g6uOnmmIA_0efVH8N-1" target="1d-g6uOnmmIA_0efVH8N-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1d-g6uOnmmIA_0efVH8N-1" value="Documentation" style="rounded=0;whiteSpace=wrap;html=1;" parent="wECPVMFYdMwjpnngEMoh-1" vertex="1">
+                    <mxGeometry x="60" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1d-g6uOnmmIA_0efVH8N-2" value="Credits to authors and utilities used" style="rounded=0;whiteSpace=wrap;html=1;" parent="wECPVMFYdMwjpnngEMoh-1" vertex="1">
+                    <mxGeometry x="60" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1d-g6uOnmmIA_0efVH8N-3" value="The &quot;Documentation&quot; page is designed to give users an ability to view the tools used to build the website." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="wECPVMFYdMwjpnngEMoh-1" vertex="1">
+                    <mxGeometry x="225" y="50" width="200" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="AhdRW6_n_wFwgEvmanmb" name="Newsletter">
+        <mxGraphModel dx="1714" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="FQo8es1YJrLE1bGq75T0-0"/>
+                <mxCell id="FQo8es1YJrLE1bGq75T0-1" parent="FQo8es1YJrLE1bGq75T0-0"/>
+                <mxCell id="7Sj2jDp6m2CBWC2JIEWC-0" value="" style="edgeStyle=none;html=1;" parent="FQo8es1YJrLE1bGq75T0-1" source="7Sj2jDp6m2CBWC2JIEWC-1" target="7Sj2jDp6m2CBWC2JIEWC-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Sj2jDp6m2CBWC2JIEWC-1" value="Newsletter" style="rounded=0;whiteSpace=wrap;html=1;" parent="FQo8es1YJrLE1bGq75T0-1" vertex="1">
+                    <mxGeometry x="40" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Sj2jDp6m2CBWC2JIEWC-2" value="" style="edgeStyle=none;html=1;" parent="FQo8es1YJrLE1bGq75T0-1" source="7Sj2jDp6m2CBWC2JIEWC-3" target="7Sj2jDp6m2CBWC2JIEWC-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Sj2jDp6m2CBWC2JIEWC-3" value="List of news for website and product(s)" style="rounded=0;whiteSpace=wrap;html=1;" parent="FQo8es1YJrLE1bGq75T0-1" vertex="1">
+                    <mxGeometry x="40" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Sj2jDp6m2CBWC2JIEWC-4" value="News Article" style="rounded=0;whiteSpace=wrap;html=1;" parent="FQo8es1YJrLE1bGq75T0-1" vertex="1">
+                    <mxGeometry x="40" y="295" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Sj2jDp6m2CBWC2JIEWC-7" value="" style="edgeStyle=none;html=1;fontSize=18;" parent="FQo8es1YJrLE1bGq75T0-1" source="7Sj2jDp6m2CBWC2JIEWC-5" target="7Sj2jDp6m2CBWC2JIEWC-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Sj2jDp6m2CBWC2JIEWC-5" value="The &quot;Newsletter&quot; page is designed to act as both a liason between the site admins and users, as well as a place to post the latest news on the state of the website.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Viewing a list of news articles&lt;br&gt;2. Selecting list from news article&lt;br&gt;3. Continue to &quot;News Article&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="FQo8es1YJrLE1bGq75T0-1" vertex="1">
+                    <mxGeometry x="200" y="30" width="240" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Sj2jDp6m2CBWC2JIEWC-6" value="The &quot;News Article&quot; page is designed to act as the individual page that the user will actually be viewing.&lt;br&gt;&lt;br&gt;Functionalities Include:&lt;br&gt;1. Viewing the article&lt;br&gt;2. Sharing the article&lt;br&gt;3. Reporting the article" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="FQo8es1YJrLE1bGq75T0-1" vertex="1">
+                    <mxGeometry x="520" y="30" width="240" height="340" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
